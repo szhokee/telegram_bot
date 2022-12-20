@@ -55,3 +55,10 @@ def check_func(msg, random_number, p):
 #     bot.send_message(message.chat.id, message.text) #popugai
 
 bot.polling()
+
+
+# git init
+# git add .
+# git commit -m 'names commit'
+# git remote add origin ss/https
+# git push origin master
